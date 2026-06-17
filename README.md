@@ -29,7 +29,7 @@ Power BI — Dashboarding, DAX measures, Interactive filtering by ticker and dat
 
 <img width="2767" height="1600" alt="Power Bi Project 2026 final final-2" src="https://github.com/user-attachments/assets/739dd1c6-d938-49a7-8a74-87e14f182593" />
 
-<br><br>[Uploading stock_project_final_final.sql…]()
+<br><br>
 
 
 **3. Market Pulse** — Per-stock scorecard that blends MACD, RSI, Bollinger Band position, volume, and upside into one composite score out of 10, plus yearly return history and best/worst single-day moves.
